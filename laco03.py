@@ -1,9 +1,8 @@
-# Um laco para pertguntar o nome da pesssoa
-# e dar uma saudacao
+# exemplo de laço
+# --> Laço finito
 
-controle = 0
+x = 2
 
-while (controle < 5):
-    nome = input("Qual o seu nome?: ")
-    print("Ola" , nome)
-    controle = controle + 1
+while (x < 100000) :
+    x = x ** 2
+    print(x)

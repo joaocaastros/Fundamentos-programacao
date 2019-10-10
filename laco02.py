@@ -2,8 +2,8 @@
 # ---> Outro laco infinito
 # ---> Nao tente isso em casa
 
-x = 99
+x = 2
 
-while ( x >= 0) :
+while (True):
+    x = x ** 2
     print(x)
-    x = x - 1
