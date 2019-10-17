@@ -24,4 +24,4 @@ else:
 
 print("Tinto", tinto )
 print("Branco", branco)
-print("Rose", rose)
+print("Rose", rose) 
